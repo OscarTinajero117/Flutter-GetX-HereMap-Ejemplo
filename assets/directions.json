@@ -1,0 +1,38 @@
+[
+        {   
+            "nombre": "Miscelánea Camis El 21",
+            "calles": "Calle Texas",
+            "numero": 608,
+            "entre_calles":"Calle Indiana y Calle California",
+            "colonia": "Fraccionamiento El 21",
+            "latitud": 22.009873,
+            "longitud": -98.9949077
+        },
+        {
+            "nombre": "Domicilio Particular",
+            "calles": "Calle Cedro",
+            "numero": 539,
+            "entre_calles": "Calle Aquismón y Calle Linares",
+            "colonia": "Colonia 20 de Noviembre",
+            "latitud": 22.003620,
+            "longitud": -99.001114
+        },
+        {
+            "nombre": "Miscelánea Camis",
+            "calles": "Calle Durango",
+            "numero": 706,
+            "entre_calles": "Calle Puebla y Calle Colima",
+            "colonia": "Colonia San Rafael",
+            "latitud": 21.987790,
+            "longitud": -98.992014
+        },
+        {
+            "nombre": "Domicilio Particular",
+            "calles": "Calle Ponciano Arriaga",
+            "numero": 0,
+            "entre_calles": "Calle Benito Juárez y Calle General Blas Escontría",
+            "colonia": "Colonia Obrera",
+            "latitud": 21.987131,
+            "longitud": -99.007220
+        }
+    ]
